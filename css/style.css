@@ -11219,3 +11219,17 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 .shop-ad-height {
   height:200px;
 }
+
+/* #CUSTOM
+***************************************************/
+
+/* #icons
+***************************************************/
+
+.icon1 {
+  content: url('../images/icons/10-01.png');
+  height: 32px;
+  width: 32px;
+  display: block;
+  /* Other styles here */
+}
