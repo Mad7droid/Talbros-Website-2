@@ -1145,6 +1145,7 @@ support for no js
 /* #FEATURES 4 #NEW
 =====================================================*/
 .fes4-cont{
+  text-align: center;
   padding-top:130px;
 	padding-bottom:80px;
 }
@@ -5125,13 +5126,13 @@ ul#portfolio {
 /*	#TYPOGRAPHY
 ===============================================================*/
 /***** #HEADINGS *****/
-h1, h2, h3{
+h1, h2, h3, h7{
 	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-weight:normal;
 	color: #4b4e53;
 	margin: 0;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, h7 {
 	color: #4b4e53;
 	margin: 0;
 }
@@ -5168,6 +5169,13 @@ h6 {
 	letter-spacing: normal;
 	line-height: 18px;
 	margin: 18px 0 13px 0;
+}
+
+h7 {
+	font-size: 32px;
+	line-height: 45px;
+	margin: 40px 0 32px 0;
+  text-align: center;
 }
 .heading-line {
 	position:relative;
