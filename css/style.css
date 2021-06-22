@@ -11235,6 +11235,30 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 ***************************************************/
 
 .icon1 {
+  content: url('../images/icons/well_engineered.png');
+  height: 72px;
+  width: 72px;
+  display: block;
+  /* Other styles here */
+}
+
+.icon2 {
+  content: url('../images/icons/high_perf.png');
+  height: 72px;
+  width: 72px;
+  display: block;
+  /* Other styles here */
+}
+
+.icon3 {
+  content: url('../images/icons/certified_icon.png');
+  height: 72px;
+  width: 72px;
+  display: block;
+  /* Other styles here */
+}
+
+.icon4 {
   content: url('../images/icons/10-01.png');
   height: 32px;
   width: 32px;
