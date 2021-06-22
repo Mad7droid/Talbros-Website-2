@@ -11259,9 +11259,82 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 }
 
 .icon4 {
-  content: url('../images/icons/10-01.png');
-  height: 32px;
-  width: 32px;
+  content: url('../images/icons/gasket.png');
+  height: 60px;
+  width: 60px;
   display: block;
   /* Other styles here */
 }
+
+.icon5 {
+  content: url('../images/icons/beauty.png');
+  height: 60px;
+  width: 60px;
+  display: block;
+  /* Other styles here */
+}
+
+.icon6 {
+  content: url('../images/icons/antivibration.png');
+  height: 60px;
+  width: 60px;
+  display: block;
+  /* Other styles here */
+}
+
+.icon7 {
+  content: url('../images/icons/filtration.png');
+  height: 60px;
+  width: 60px;
+  display: block;
+  /* Other styles here */
+}
+
+.icon8 {
+  content: url('../images/icons/suspension.png');
+  height: 60px;
+  width: 60px;
+  display: block;
+  /* Other styles here */
+}
+
+.icon9 {
+  content: url('../images/icons/braking.png');
+  height: 60px;
+  width: 60px;
+  display: block;
+  /* Other styles here */
+}
+
+.icon10 {
+  content: url('../images/icons/hvac.png');
+  height: 60px;
+  width: 60px;
+  display: block;
+  /* Other styles here */
+}
+
+.icon11 {
+  content: url('../images/icons/electronic.png');
+  height: 60px;
+  width: 60px;
+  display: block;
+  /* Other styles here */
+}
+
+.icon12 {
+  content: url('../images/icons/oil.png');
+  height: 60px;
+  width: 60px;
+  display: block;
+  /* Other styles here */
+}
+
+.icon13 {
+  content: url('../images/icons/p');
+  height: 60px;
+  width: 60px;
+  display: block;
+  /* Other styles here */
+}
+
