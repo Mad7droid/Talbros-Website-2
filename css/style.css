@@ -1291,6 +1291,7 @@ support for no js
 /* #FEATURES 6 #NEW
 =====================================================*/
 .fes6-box{
+  text-align:center;
   margin-top:25px;
   margin-bottom:40px;
 }
@@ -1302,6 +1303,8 @@ support for no js
   margin: 0;
 }
 .fes6-box .icon {
+
+  margin: auto;
   color: #4b4e53;
   font-size: 65px;
   line-height:64px;
