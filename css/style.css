@@ -5666,7 +5666,7 @@ button {
 	transition: all .3s ease 0s;
 }
 .button.thin.hover-dark:hover {
-	background-color:#4b4e53 !important;
+	background-color:#012053e7 !important;
 	border: 0px solid #4b4e53 !important;
 	color:#fff !important;
 }
