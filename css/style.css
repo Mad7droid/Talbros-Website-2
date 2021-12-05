@@ -1397,7 +1397,7 @@ support for no js
 	background-color:#eee;
 }
 .grey-dark-bg, .header.no-transparent .header-wrapper.grey-dark-bg{
-	background-color:#303236;
+	background-color:#1e2f54;
 }
 .yellow-bg{
 	background-color:#ffea00 !important;
@@ -3241,6 +3241,7 @@ select.input-border {
 }
 #main-menu .navbar .nav > li > a .main-menu-title{
 	line-height:20px;
+  font-size: 16px;
 }
 #main-menu .navbar .nav > li > a {
 	padding:38px 3px 5px 3px;
@@ -3749,7 +3750,7 @@ background:none;
 	box-shadow: 0 1px 15px rgba(0,0,0, .15);
 }
 .affix.black-header .header-wrapper {
-	background: #303236;
+	background: #1E2F54;
 }
 #nav-below.header {
 	position:relative;
@@ -3987,7 +3988,7 @@ header.affix .logo .logo-img {
   width:100px;
 }
 .our-clients-cont {
-	padding:60px 0;
+	padding:20px 0px;
 }
 
 /* #TABS 3 #NEW
