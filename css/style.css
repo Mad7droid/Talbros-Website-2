@@ -770,6 +770,9 @@ support for no js
 .font-white, .font-white a{
   color:#fff !important;
 }
+.font-blue, .font-blue a{
+  color:#1E2F54 !important;
+}
 .light-73-wide{
 	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 73px;
