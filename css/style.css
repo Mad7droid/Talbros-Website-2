@@ -1103,7 +1103,7 @@ support for no js
 	margin-top:30px;
 }
 .fes2-img {
-  background: url(../images/fes2.jpg) 50% 50% no-repeat;
+  background: url(../images/About/image1.png) 50% 50% no-repeat;
   
   width: 100%;
   display: block;	
@@ -1117,6 +1117,23 @@ support for no js
   background-repeat: no-repeat;
   background-position: center center;
 }
+
+.fes2-imgfac {
+  background: url(../images/facilities/img1.png) 50% 50% no-repeat;
+  
+  width: 100%;
+  display: block;	
+  position: relative;
+  background-size: cover;
+     
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  overflow: hidden;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 .title-fs-45 {
 	color:#4b4e53;
 	font-family: 'Lato',Arial,Helvetica,sans-serif;
