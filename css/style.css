@@ -1096,7 +1096,7 @@ support for no js
 }
 .fes2-main-text-cont {
   margin: 0 auto;
-  padding: 145px 50px 140px 50px;
+  padding: 85px 50px 85px 50px;
   max-width:500px; 
 }
 .fes2-text-cont{
@@ -1513,6 +1513,15 @@ support for no js
   position: relative;
   width: 100%;
 }
+
+.container-p-fac {
+  padding:75px 75px 75px 100px;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+  width: 89%;
+}
+
 #menu-cart .icon_cart{
   margin-right:9px;
   font-size:14px;
